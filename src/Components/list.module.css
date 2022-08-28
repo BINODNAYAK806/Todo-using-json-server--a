@@ -1,0 +1,19 @@
+.first{
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    background-color: pink;
+    size: 25px;
+    width: 120px;
+    height: 120px;
+    border: 3px solid blue;
+    margin-left: 20px;
+
+}
+.newdev{
+
+    display: flex;
+    /* margin-left: 10px; */
+    /* padding-left: 20px; */
+
+}
